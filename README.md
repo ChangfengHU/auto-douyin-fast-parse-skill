@@ -9,7 +9,7 @@
 不需要安装 skill，一条命令直接调用：
 
 ```bash
-bash <(curl -fsSL https://skill.vyibc.com/douyin-fast-parse.sh) 
+bash <(curl -fsSL https://skill.vyibc.com/douyin-fast-parse.sh) --mode=parse --url='https://v.douyin.com/xxx/'
 ```
 
 ---
